@@ -26,8 +26,6 @@ I like turning ideas into working software — from mobile games to browser apps
 
 ### 📊 GitHub stats
 
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salateek2&show_icons=true&theme=tokyonight)
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salateek2&layout=compact&theme=tokyonight)
 
 ---
