@@ -29,3 +29,12 @@ I like turning ideas into working software — from mobile games to browser apps
 ![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salateek2&show_icons=true&theme=tokyonight)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salateek2&layout=compact&theme=tokyonight)
+
+---
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Salateek2/Salateek2/output/github-snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Salateek2/Salateek2/output/github-snake.svg" />
+</picture>
