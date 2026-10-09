@@ -4,6 +4,8 @@
 
 I like turning ideas into working software — from mobile games to browser apps. Currently focused on Android development in Java and modern web stacks like React.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-rabinovich-3752b4191/)
+
 ---
 
 ### 🔧 Tech I work with
