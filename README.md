@@ -38,7 +38,9 @@ I like turning ideas into working software, from mobile games to browser apps. I
 
 ### 📊 GitHub stats
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Salateek2&layout=compact&theme=tokyonight)
+<a href="https://github.com/Salateek2">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salateek2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+</a>
 
 ---
 
