@@ -8,7 +8,7 @@
 <text x="352" y="66" class="p">37.1%</text>
 <text x="20" y="97" class="l">JavaScript</text>
 <rect x="120" y="86" width="220" height="10" rx="5" fill="#21262d"/>
-<rect x="120" y="86" width="52.2" height="10" rx="5" fill="#F7DF1E"/>
+<rect x="120" y="86" width="52.1" height="10" rx="5" fill="#F7DF1E"/>
 <text x="352" y="96" class="p">23.7%</text>
 <text x="20" y="127" class="l">C#</text>
 <rect x="120" y="116" width="220" height="10" rx="5" fill="#21262d"/>
@@ -28,7 +28,7 @@
 <text x="352" y="216" class="p">3.2%</text>
 <text x="20" y="247" class="l">HTML</text>
 <rect x="120" y="236" width="220" height="10" rx="5" fill="#21262d"/>
-<rect x="120" y="236" width="4.0" height="10" rx="5" fill="#E34C26"/>
+<rect x="120" y="236" width="4.1" height="10" rx="5" fill="#E34C26"/>
 <text x="352" y="246" class="p">1.8%</text>
 <text x="20" y="277" class="l">GDShader</text>
 <rect x="120" y="266" width="220" height="10" rx="5" fill="#21262d"/>
